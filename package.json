@@ -1,0 +1,8 @@
+{
+  "name": "react-native-template-repack",
+  "version": "0.0.1",
+  "description": "React Native template for a quick start with RePack",
+  "repository": "git@github.com:lukaszchopin/react-native-template-repack.git",
+  "author": "Łukasz Chludziński <lukasz.chludzinski@gmail.com>",
+  "license": "MIT"
+}
