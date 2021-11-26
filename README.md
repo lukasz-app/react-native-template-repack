@@ -9,6 +9,8 @@ npx react-native init MyApp --template https://github.com/lukaszchopin/react-nat
 
 ```
 
+## Warning
+
 This template only works with the new CLI.
 Make sure you have uninstalled the legacy `react-native-cli` first:
 
@@ -28,3 +30,7 @@ or
 ```sh
 yarn global add @react-native-community/cli
 ```
+
+## Warning 2
+
+Template was tested only on with React Native v0.66.3
